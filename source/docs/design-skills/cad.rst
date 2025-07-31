@@ -12,7 +12,7 @@ Introduction
    .. glossary::
 
       Computer-aided design (CAD)
-         CAD is software most commonly used to aid the design and drafting of parts and assemblies in engineering. In FTC\ |reg|, CAD is used to make 3D models of robots as well as design custom parts.
+         CAD is software most commonly used to aid the design and drafting of parts and assemblies in engineering. In FTC\ |reg|, CAD is used to 3D model robots and design custom parts.
 
 **CAD is not necessary in FTC to build a successful robot.** Many successful teams didn't CAD their robot at all. Other successful teams only made parts of their robot in CAD. Still other teams fully designed their robot in CAD.
 
@@ -96,7 +96,7 @@ College-level engineering classes as well as numerous companies in the automotiv
 Getting Parts
 -------------
 
-All vendors (REV, goBILDA, Actobotics, AndyMark, Tetrix) provide 3d models of the parts they sell in STEP format, which can be imported by any of the CAD programs above. Some vendors also offer repositories or zip files containing :term:`STEP file` of all the models they sell.
+All vendors (REV, goBILDA, AndyMark, Studica, Actobotics, Tetrix) provide 3d models of the parts they sell in STEP format, which can be imported by any of the CAD programs above. Some vendors also offer repositories or zip files containing :term:`STEP file` of all the models they sell.
 
 - Vendor CAD Libraries
 
@@ -104,7 +104,7 @@ All vendors (REV, goBILDA, Actobotics, AndyMark, Tetrix) provide 3d models of th
   - `REV Robotics <https://workbench.grabcad.com/workbench/projects/gcEvgrMnw6kRPx7OR6r45Gvb2t-iOdLiNG3m_ALpdGYzK_#/space/gcFd6nwp5Brrc3ks-92gagLZCV2FkceNTX3qGzaMvy2wQD/folder/2906404>`_
 
 - `10650 Hazmat Robotics CAD Library <https://workbench.grabcad.com/workbench/projects/gcpgZgLBwhIdL0FfUKJJfM75cqa9RW1ncXaL-lQ4KOl1wa#/space/gcSzacmSeI-l19BYQNPm422pSHLenRxOxVtmaD-Pzynwsq/folder/6578524>`_
-- `FTC Onshape Parts Library (contains a majority of parts from most major vendors) <https://ftconshape.com/introduction-to-the-ftc-parts-library/>`_
+- `FTC Onshape Parts Library (contains a majority of parts from most major vendors) <https://cad.onshape.com/appstore/apps/Design%20&%20Documentation/6515cfb91574253b1b96a6ba>`_
 
 File sharing
 ------------
