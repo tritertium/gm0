@@ -3,6 +3,8 @@
 Machining
 =========
 
+.. note:: In recent years, services like Fabworks and SendCutSend have become popular among teams for offering affordable CNC sheet metal — a key component in building custom robots.
+
 Advantages of Machining
 -----------------------
 
