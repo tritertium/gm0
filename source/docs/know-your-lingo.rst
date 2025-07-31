@@ -3,7 +3,7 @@ Know Your Lingo
 
 Many teams may be unfamiliar with the various terms and slang that are often thrown around at competitions and meets. Here we have compiled a guide of some commonly used terms to get you up to speed.
 
-Competitions
+Competition
 ------------
 
 **Alliance**  
@@ -45,9 +45,8 @@ Competitions
 **TieBreaker Points (TBP)**  
     Used to break ties in team rankings.
 
----
-
-## Robot Components
+Robot Components
+----------------
 
 **Arm**  
     Mechanism responsible for extending the reach of the robot using rotational or multi-axis motion.
