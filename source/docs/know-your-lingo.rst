@@ -3,7 +3,8 @@ Know Your Lingo
 
 Many teams may be unfamiliar with the various terms and slang that are often thrown around at competitions and meets. Here we have compiled a guide of some commonly used terms to get you up to speed.
 
-## Com
+Competitions
+------------
 
 **Alliance**  
     Group of two teams that compete together in a match.
