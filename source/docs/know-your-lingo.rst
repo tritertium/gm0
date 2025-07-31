@@ -3,69 +3,83 @@ Know Your Lingo
 
 Many teams may be unfamiliar with the various terms and slang that are often thrown around at competitions and meets. Here we have compiled a guide of some commonly used terms to get you up to speed.
 
-Competitions
-------------
+## Com
 
-Program Delivery Partner (PDP)
-   Director or directors for events and activities in a region. Used to be referred to as the Affiliate Partner (AP).
-Qualifier
-   Tournament with 5-6 qualifying matches and best-of-three alliance elimination matches. Judging included. Will advance to States/Regional level.
-League Meet
-   Low-stress competition with matches counting towards league rank at a League Tournament. No judging.
-League Tournament
-   Tournament with ranked matches and alliance elimination matches for teams participating in that League. Judging included. Will advance to States/Regional level. Sometimes called a "League Championship".
-Alliance
-   Group of two or, in eliminations, two or three teams that compete. In elimination matches each team must play at least once.
-Ranking Points (RP)
-   Primary basis in rankings at traditional events. For the Power Play season, each team receives 2 RP for winning a qualification match, 1 for tieing, and 0 for losing.
-TieBreaker Points (TBP)
-   Secondary determinant in team rankings for traditional events, primary determinant for remote events. For the Power Play season, this is split up into two parts; TBP1 and TBP2. TBP1 is used before TBP2, and is
-   the alliances/teams autonomous period score. TBP2 is the alliances/teams end game score. (Whether it is alliances/teams depends on if the team is at traditional events, respectively.)
-Qualification Match
-   Qualifying matches (generally 5) with random alliance partners and
-   opponents will be played to determine team rankings.
-Elimination Match
-   2 alliances of 2 or 3 teams each compete in best of 3 matches to determine
-   winning alliance. Also known as elim matches, or just elims.
+**Alliance**  
+    Group of two teams that compete together in a match.
 
-Robot Components
-----------------
+**Autonomous Period**  
+    The first 30 seconds of a match where the robot operates without driver control, following pre-programmed instructions.
 
-DC Motor
-   Open-loop :term:`RS-555 series <RS-550 Series Motor>` 12 volt motors used
-   to power mechanisms. Max of 8.
-Servo
-   Closed-loop :term:`servo-motors <Servo>` used for precise movement.
-   Controlled by PWM signals. Max of 12.
-Drivetrain (DT)
-   Mechanism responsible for the movement of the robot.
-Intake
-   Mechanism responsible for picking up game elements from the field by using
-   rotational motion.
-Claw
-   Mechanism responsible for picking up game elements by grasping.
-Linear Extension/Slide
-   Mechanism responsible for extending parts beyond the starting configuration
-   of the robot in a linear fashion.
-Arm
-   Mechanism responsible for extending the reach of the robot through rotational motion or multi-axis movement.
-REV Expansion Hub
-   Hardware controller for the robot, connected to :term:`Robot Controller`
-   phone.
-   Controls 4 motor and encoders, 6 servos, and various sensors via digital,
-   analog, and I2C ports.
-   Maximum of 2 hubs.
-REV Control Hub
-   Integrated Expansion Hub + :term:`Robot Controller` phone.
-   It serves many of the same purposes as the Expansion Hub but
-   eliminates the need for a :term:`Robot Controller` phone.
-   1 Expansion Hub may be used along side 1 Control Hub.
-Driver Station (DS)
-   Android phone connected to the gamepad controller.
-   Drivers interact with the DS phone to start/stop robot.
-Robot Controller
-   Android phone connected to the Expansion Hub.
-   Connects to DS phone via WiFi-Direct.
-Gamepad Controller
-   An Xbox or PS4 style controller which the driver uses to control the robot
-   during driver-control period. Maximum of 2.
+**Driver-Controlled Period (TeleOp)**  
+    The portion of the match after Autonomous where drivers control the robot using gamepads.
+
+**Elimination Match**  
+    Two alliances of 2 or 3 teams each compete in a double-elimination playoff bracket to determine the winning alliance. Also called "elims" or "playoffs".
+
+**Inspection**  
+    Pre-match check to ensure the robot complies with game rules, size, and safety requirements.
+
+**Judging**  
+    Evaluation process during tournaments where teams present their engineering notebook, interview judges, and demonstrate outreach and design efforts.
+
+**League Meet**  
+    Match-only event within a league. Results contribute to a team’s league ranking. No judging occurs.
+
+**League Tournament**  
+    Final event of a league. Includes ranking matches, alliance selection, elimination rounds, and full judging. Teams can advance to State or Regional Championships. Also known as a League Championship.
+
+**Program Delivery Partner (PDP)**  
+    Organization or individuals responsible for coordinating FTC programs and events in a region. Official FIRST contact for teams in that area.
+
+**Qualifier**  
+    Official tournament where teams play at least 5 qualification matches and participate in a double-elimination playoff bracket. Judging is included, awards are given. Top-performing teams advance to the next level of competition (e.g. Regionals or States).
+
+**Qualification Match**  
+    Randomized matches where teams are paired with different alliance partners and opponents. Rankings are based on performance across each match.
+
+**Ranking Points (RP)**  
+    Primary metric for team rankings during qualification matches. Each team earns 2 Ranking Points for a win, 1 for a tie, and 0 for a loss (game-specific values may vary).
+
+**TieBreaker Points (TBP)**  
+    Used to break ties in team rankings.
+
+---
+
+## Robot Components
+
+**Arm**  
+    Mechanism responsible for extending the reach of the robot using rotational or multi-axis motion.
+
+**Claw**  
+    Mechanism that grasps and holds game elements.
+
+**DC Motor**  
+    12VDC RS-550 motors used to power mechanisms, controlled in an open-loop. Maximum of 8 allowed per robot.
+
+**Drivetrain (DT)**  
+    Subsystem that provides movement to the robot.
+
+**Gamepad Controller**  
+    Xbox or PS4-style controllers used to drive the robot during the driver-controlled period. Up to 2 gamepads are allowed, connected via the Driver Station.
+
+**Driver Station (DS)**  
+    Android phone connected to gamepads. Used by the drive team to operate the robot and start/stop matches.
+
+**Intake**  
+    Mechanism that collects game elements from the field using rotational motion.
+
+**Linear Extension / Slide**  
+    Mechanism that moves linearly to extend a part of the robot beyond its starting configuration.
+
+**REV Control Hub**  
+    All-in-one device combining a control system (Android-based) with motor, servo, and sensor ports. Replaces the need for a separate Robot Controller phone. May be paired with one Expansion Hub.
+
+**REV Expansion Hub**  
+    Hardware control module that supports up to 4 motors, 6 servos, and multiple types of sensors. Maximum of 2 hubs allowed total (including Control Hub).
+
+**Robot Controller**  
+    Android phone connected to an Expansion Hub (if not using a Control Hub). Communicates with the Driver Station via Wi-Fi Direct.
+
+**Servo**  
+    Closed-Loop servo-motors controlled by PWM signals. Max of 12.
