@@ -15,8 +15,8 @@ Custom extension systems also require tons of work in CAD, hours upon hours of m
    :alt: 16379 KookyBotz, Centerstage, custom box tube linear elevator
 
    16379 KookyBotz, Centerstage, custom box tube linear elevator
-   
-.. image:: images/custom/16460-MGN-rail.png
+
+.. figure:: images/custom/16460-MGN-rail.jpg
    :alt: 16460 GEarheads, Into The Deep, custom MGN rail linear elevator
 
     16460 GEarheads, Into The Deep, custom MGN rail linear elevator
