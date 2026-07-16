@@ -9,22 +9,20 @@ When built correctly, an elevator of this type can withstand hundreds of pounds 
 
 Custom extension systems also require tons of work in CAD, hours upon hours of manufacturing time, and may need multiple iterations before they work correctly. Due to their complexity and how challenging they are to design, less experienced teams may encounter significant challenges.
 
-.. note:: Lightweight drawer slides (MiSUMI aluminum and Long Robotics Slides) can offer similar performance at a fraction of the complexity.
+.. note:: Lightweight drawer slides (MiSUMI aluminum and Long Robotics Slides) can offer similar performance without sifnificantly increasing complexity.
 
-.. figure:: images/custom/7236-box-tube.png
-   :alt: 7236's Rover Ruckus bot with custom box tube elevator
+.. figure:: images/custom/16379-Box-Tube.jpg
+   :alt: 16379 KookyBotz, Centerstage, custom box tube linear elevator
 
-   7236 Recharged Green, Rover Ruckus, custom box tube linear elevator
+   16379 KookyBotz, Centerstage, custom box tube linear elevator
+   
+.. image:: images/custom/16460-MGN-rail.png
+   :alt: 16460 GEarheads, Into The Deep, custom MGN rail linear elevator
 
-.. figure:: images/custom/13075-8020-hang.png
-   :alt: 13075's Rover Ruckus bot with custom 8020 hang
+    16460 GEarheads, Into The Deep, custom MGN rail linear elevator
 
-   13075 Coram Deo Academy Robotics, Rover Ruckus, custom 8020 chain driven hang
+   .. figure:: images/custom/5975-carbon-fiber.png
+   :alt: 5975 CYBOTS?, Relic Recovery, custom carbon fiber rod linear elevator
 
-.. image:: images/custom/7172-fishing-pole-extension-cad.png
-   :alt: 7172's custom fishing pole based extension CAD model
+   5975 CYBOTS?, Relic Recovery, custom carbon fiber rod linear elevator
 
-.. figure:: images/custom/7172-fishing-pole-extension.png
-   :alt: 7172's custom fishing pole based extension
-
-   7172 Technical Difficulties, Rover Ruckus, fishing pole extension using gear rack
